@@ -1,3 +1,5 @@
 numpy
-customtkinter
+streamlit
+plotly
+customtkinter 
 matplotlib
