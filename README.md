@@ -44,57 +44,5 @@ Represented by:
 * CustomTkinter
 * Matplotlib
 
-## Installation
 
-### Prerequisites
-
-Make sure Python is installed on your computer.
-
-### Steps
-
-1. Clone the repository:
-
-   ```bash
-   git clone <YOUR_REPOSITORY_URL>
-   ```
-
-2. Navigate to the project directory:
-
-   ```bash
-   cd Coordinate-Transformation
-   ```
-
-3. (Optional but recommended) Create a virtual environment:
-
-   ```bash
-   python -m venv venv
-   ```
-
-4. Activate the virtual environment.
-
-   **Windows:**
-
-   ```bash
-   venv\Scripts\activate
-   ```
-
-5. Install the required libraries:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. Run the application:
-
-   ```bash
-   python main.py
-   ```
-
-> Replace `main.py` with the actual name of your main Python file if it is different.
-
-## Project Structure
-
-```text
-Coordinate-Transformati
-```
 
