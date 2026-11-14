@@ -1,5 +1,5 @@
 numpy
-streamlit
+streamlit>=1.36
 plotly
-customtkinter 
+customtkinter
 matplotlib
